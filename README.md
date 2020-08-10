@@ -3,6 +3,7 @@ My name is Steamworks, I'm a hobbyist developer and freelancer. I enjoy developi
 
 ### 🔭 Projects?
 - Talon - [Invite](https://google.com) | [Website](https://google.com) | [Discord](https://discord.gg/)
+- MinePyro - [Website](https://google.com) | [Discord](https://google.com)
 
 ### 📪 How To Contact Me
 - **Discord:** Steamworks#1127
